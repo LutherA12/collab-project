@@ -1,0 +1,39 @@
+.userParentContainer {
+}
+
+.userChildContainer {
+  border: solid 5px #bb0000;
+  display: flex;
+  color: black;
+  font-size: 30px;
+  width: 385px;
+  height: 126px;
+  margin-left: 25vw;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.pictureContainer {
+  border: solid 1px #fff;
+  background-color: #fff;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.userName-TitleContainer {
+  font-family: "Montserrat", sans-serif;
+  height: 70%;
+  text-align: left;
+}
+
+.userTitle {
+  font-size: 25px;
+  color: #7c7c7c;
+}
+
+.userName {
+  font-size: 30px;
+  font-weight: 700;
+  padding-top: 10px;
+}
